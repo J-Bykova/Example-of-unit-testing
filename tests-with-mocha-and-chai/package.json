@@ -1,0 +1,15 @@
+{
+  "name": "mocha-example",
+  "version": "1.0.0",
+  "description": "Example app for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Jenny Bykova",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}

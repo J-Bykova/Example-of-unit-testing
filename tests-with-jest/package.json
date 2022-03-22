@@ -1,0 +1,17 @@
+{
+  "name": "example-tests-with-jest",
+  "version": "1.0.0",
+  "description": "Example unit testing with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jenny Bykova",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
